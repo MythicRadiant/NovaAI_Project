@@ -6,7 +6,7 @@ The project is built using React.js, which ensures a smooth and responsive user 
 
 ## Key Features of NovaAI:
 ### **User interface**
-Designed with React.js, NovaAI features a modern and intuitive user interface that is both visually appealing and highly functional. 
+- Designed with React.js, NovaAI features a modern and intuitive user interface that is both visually appealing and highly functional. 
 
 Seamless Integration with Gemini API: 
 By utilizing the Gemini API, NovaAI benefits from Google's advanced AI technology, providing users with a high-quality conversational experience that mirrors the capabilities of the original Gemini AI.
