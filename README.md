@@ -6,7 +6,7 @@ The project is built using React.js, which ensures a smooth and responsive user 
 
 ## Installation
 - Clone the repository
-   [GitHub](https://github.com) – Link to GitHub
+   `https://www.example.com`
 
 ## Key Features of NovaAI:
 ### **User interface**
