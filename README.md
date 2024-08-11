@@ -16,7 +16,5 @@ The project is built using React.js, which ensures a smooth and responsive user 
  - Adding voice recognition and synthesis capabilities could make NovaAI more versatile, allowing users to interact with the AI through spoken language.
  - Introducing features that allow NovaAI to personalize interactions based on user preferences and history could greatly enhance user experience.
 
-Seamless Integration with Gemini API: 
-By utilizing the Gemini API, NovaAI benefits from Google's advanced AI technology, providing users with a high-quality conversational experience that mirrors the capabilities of the original Gemini AI.
 
 
