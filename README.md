@@ -6,7 +6,7 @@ The project is built using React.js, which ensures a smooth and responsive user 
 
 ## Installation
 - Clone the repository:
-  git clone https://github.com/MythicRadiant/NovaAI_Project.git
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-Visit-blue)
 - install vite with *npm install -D vite*
   
 ## Key Features of NovaAI:
