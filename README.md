@@ -1,2 +1,1 @@
-# NovaAI_Project
-Nova AI, made using React js and Gemini Api
+NovaAI is an advanced artificial intelligence platform built as a clone of Gemini AI, leveraging the robust capabilities of the Gemini API. Designed using React.js, NovaAI offers a seamless user experience. This project reflects a sophisticated blend of cutting-edge AI technology and modern web development practices, providing users with an interactive and intelligent AI assistant
