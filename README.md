@@ -11,7 +11,7 @@ The project is built using React.js, which ensures a smooth and responsive user 
 ### **Additional Features**
 - React based Architecture and CSS styling is utilized for building the application and making it visually appealing.
   
-### **Future Enhancements**
+![#f03c15](https://www.iconsdb.com/icons/download/color/f03c15/circle-16.png) ### **Future Enhancements**
 - Expanding NovaAI’s capabilities to support multiple languages could broaden its accessibility and usability.
 - Adding voice recognition and synthesis capabilities could make NovaAI more versatile, allowing users to interact with the AI through spoken language.
 - Introducing features that allow NovaAI to personalize interactions based on user preferences and history could greatly enhance user experience.
