@@ -1,4 +1,4 @@
-#NovaAI - A Cutting-Edge Gemini Clone Utilizing Google’s Gemini API
+##NovaAI - A Cutting-Edge Gemini Clone Utilizing Google’s Gemini API
 
 NovaAI represents a significant advancement in artificial intelligence, crafted as a sophisticated clone of Google's Gemini AI. This innovative project harnesses the power of the Gemini API, integrating it with React.js to deliver a highly functional and user-friendly AI assistant. With NovaAI, users gain access to a robust platform that excels in natural language processing (NLP) and interactive dialogue.
 
