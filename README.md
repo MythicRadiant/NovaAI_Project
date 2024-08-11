@@ -8,7 +8,7 @@ The project is built using React.js, which ensures a smooth and responsive user 
 ### **User interface**
 - Designed with React.js, NovaAI features a modern and intuitive user interface that is both visually appealing and highly functional.
 
-  ### **Additional Features**
+### **Additional Features**
 - React based Architecture and CSS styling is utilized for building the application and making it visually appealing.
   
 ### **Future Enhancements**
