@@ -15,8 +15,8 @@ The application is designed to provide instantaneous feedback and responses, ens
 # Customizable User Interface: 
 Built with React.js, NovaAI offers a modern and adaptable user interface. The design is both aesthetically pleasing and functional, allowing users to interact with the AI in a straightforward and intuitive manner.
 
-# 
-Scalable and Robust Architecture: NovaAI's architecture is designed to handle a growing number of users and interactions efficiently. This scalability ensures that the application can adapt to increasing demands without compromising on performance or reliability.
+# Scalable and Robust Architecture: 
+NovaAI's architecture is designed to handle a growing number of users and interactions efficiently. This scalability ensures that the application can adapt to increasing demands without compromising on performance or reliability.
 
 Seamless Integration with Gemini API: By utilizing the Gemini API, NovaAI benefits from Google's advanced AI technology, providing users with a high-quality conversational experience that mirrors the capabilities of the original Gemini AI.
 
