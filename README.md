@@ -5,11 +5,9 @@ NovaAI represents a significant advancement in artificial intelligence, crafted 
 The project is built using React.js, which ensures a smooth and responsive user interface. This choice of technology allows NovaAI to offer a modern and engaging user experience, characterized by its sleek design and real-time interactions. The application is capable of handling multiple user requests simultaneously, thanks to its scalable architecture. This ensures that NovaAI can grow and adapt to increasing demands, maintaining high performance and reliability.
 
 ## Installation
-- Clone the repository
-   ### Code Block
-
-Here is a code block you can easily copy:
-
+- Clone the repository:
+   git clone 
+   
 
 
 ## Key Features of NovaAI:
